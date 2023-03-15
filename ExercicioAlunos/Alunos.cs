@@ -14,9 +14,9 @@ class Alunos
    public string obterSituacao(double media){
     string situacao="";
     if(media>=6){
-        situacao="Aprovado!";
+        situacao="Aprovado(a) ";
     }else{
-        situacao="Reprovado";
+        situacao="Reprovado(a) ";
     }
     return situacao;
    }
