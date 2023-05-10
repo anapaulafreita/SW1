@@ -1,0 +1,15 @@
+D:\S.W 1\teste_herança\bin\Debug\net7.0\teste_herança.exe
+D:\S.W 1\teste_herança\bin\Debug\net7.0\teste_herança.deps.json
+D:\S.W 1\teste_herança\bin\Debug\net7.0\teste_herança.runtimeconfig.json
+D:\S.W 1\teste_herança\bin\Debug\net7.0\teste_herança.dll
+D:\S.W 1\teste_herança\bin\Debug\net7.0\teste_herança.pdb
+D:\S.W 1\teste_herança\obj\Debug\net7.0\teste_herança.csproj.AssemblyReference.cache
+D:\S.W 1\teste_herança\obj\Debug\net7.0\teste_herança.GeneratedMSBuildEditorConfig.editorconfig
+D:\S.W 1\teste_herança\obj\Debug\net7.0\teste_herança.AssemblyInfoInputs.cache
+D:\S.W 1\teste_herança\obj\Debug\net7.0\teste_herança.AssemblyInfo.cs
+D:\S.W 1\teste_herança\obj\Debug\net7.0\teste_herança.csproj.CoreCompileInputs.cache
+D:\S.W 1\teste_herança\obj\Debug\net7.0\teste_herança.dll
+D:\S.W 1\teste_herança\obj\Debug\net7.0\refint\teste_herança.dll
+D:\S.W 1\teste_herança\obj\Debug\net7.0\teste_herança.pdb
+D:\S.W 1\teste_herança\obj\Debug\net7.0\teste_herança.genruntimeconfig.cache
+D:\S.W 1\teste_herança\obj\Debug\net7.0\ref\teste_herança.dll
